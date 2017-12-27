@@ -1,0 +1,16 @@
+C:\Users\Jimmy\documents\visual studio 2013\Projects\MusicFileSorter\MusicFileSorter\bin\Release\MusicFileSorter.exe.config
+C:\Users\Jimmy\documents\visual studio 2013\Projects\MusicFileSorter\MusicFileSorter\bin\Release\MusicFileSorter.exe
+C:\Users\Jimmy\documents\visual studio 2013\Projects\MusicFileSorter\MusicFileSorter\bin\Release\MusicFileSorter.pdb
+C:\Users\Jimmy\documents\visual studio 2013\Projects\MusicFileSorter\MusicFileSorter\bin\Release\policy.2.0.taglib-sharp.dll
+C:\Users\Jimmy\documents\visual studio 2013\Projects\MusicFileSorter\MusicFileSorter\bin\Release\taglib-sharp.dll
+C:\Users\Jimmy\documents\visual studio 2013\Projects\MusicFileSorter\MusicFileSorter\bin\Release\policy.2.0.taglib-sharp.config
+C:\Users\Jimmy\documents\visual studio 2013\Projects\MusicFileSorter\MusicFileSorter\obj\Release\MusicFileSorter.csprojResolveAssemblyReference.cache
+C:\Users\Jimmy\documents\visual studio 2013\Projects\MusicFileSorter\MusicFileSorter\obj\Release\MainWindow.baml
+C:\Users\Jimmy\documents\visual studio 2013\Projects\MusicFileSorter\MusicFileSorter\obj\Release\MainWindow.g.cs
+C:\Users\Jimmy\documents\visual studio 2013\Projects\MusicFileSorter\MusicFileSorter\obj\Release\App.g.cs
+C:\Users\Jimmy\documents\visual studio 2013\Projects\MusicFileSorter\MusicFileSorter\obj\Release\MusicFileSorter_MarkupCompile.cache
+C:\Users\Jimmy\documents\visual studio 2013\Projects\MusicFileSorter\MusicFileSorter\obj\Release\MusicFileSorter.g.resources
+C:\Users\Jimmy\documents\visual studio 2013\Projects\MusicFileSorter\MusicFileSorter\obj\Release\MusicFileSorter.Properties.Resources.resources
+C:\Users\Jimmy\documents\visual studio 2013\Projects\MusicFileSorter\MusicFileSorter\obj\Release\MusicFileSorter.csproj.GenerateResource.Cache
+C:\Users\Jimmy\documents\visual studio 2013\Projects\MusicFileSorter\MusicFileSorter\obj\Release\MusicFileSorter.exe
+C:\Users\Jimmy\documents\visual studio 2013\Projects\MusicFileSorter\MusicFileSorter\obj\Release\MusicFileSorter.pdb
