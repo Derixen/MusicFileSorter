@@ -34,3 +34,6 @@ C:\Users\Jimmy\source\repos\MusicFileSorter\MusicFileSorter\obj\Debug\MusicFileS
 C:\Users\Jimmy\source\repos\MusicFileSorter\MusicFileSorter\obj\Debug\MusicFileSorter.csproj.CoreCompileInputs.cache
 C:\Users\Jimmy\source\repos\MusicFileSorter\MusicFileSorter\obj\Debug\MusicFileSorter.exe
 C:\Users\Jimmy\source\repos\MusicFileSorter\MusicFileSorter\obj\Debug\MusicFileSorter.pdb
+C:\Users\Jimmy\source\repos\MusicFileSorter\MusicFileSorter\obj\Debug\MusicFileSorter.csprojResolveAssemblyReference.cache
+C:\Users\Jimmy\source\repos\MusicFileSorter\MusicFileSorter\obj\Debug\MainWindow.baml
+C:\Users\Jimmy\source\repos\MusicFileSorter\MusicFileSorter\obj\Debug\MainWindow.g.cs
