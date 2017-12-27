@@ -342,7 +342,7 @@ namespace MusicFileSorter
 
         }
 
-        //Other Events
+        //Other Events-
         private void CheckBox_Checked(object sender, RoutedEventArgs e)
         {
 
@@ -629,7 +629,6 @@ namespace MusicFileSorter
                 MusicDataFile.Columns[10].Visibility = Visibility.Hidden;
             }
         }
-
         private void btnSearchTable_Click(object sender, RoutedEventArgs e)
         {
             
