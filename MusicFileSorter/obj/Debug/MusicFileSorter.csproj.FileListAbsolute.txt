@@ -17,3 +17,20 @@ C:\Users\Jimmy\documents\visual studio 2013\Projects\MusicFileSorter\MusicFileSo
 C:\Users\Jimmy\documents\visual studio 2013\Projects\MusicFileSorter\MusicFileSorter\bin\Debug\Resources\Scan.png
 C:\Users\Jimmy\documents\visual studio 2013\Projects\MusicFileSorter\MusicFileSorter\obj\Debug\MusicFileSorter_Content.g.cs
 C:\Users\Jimmy\documents\visual studio 2013\Projects\MusicFileSorter\MusicFileSorter\bin\Debug\Resources\Folder-Open-icon.png
+C:\Users\Jimmy\source\repos\MusicFileSorter\MusicFileSorter\bin\Debug\Resources\Folder-Open-icon.png
+C:\Users\Jimmy\source\repos\MusicFileSorter\MusicFileSorter\bin\Debug\Resources\Scan.png
+C:\Users\Jimmy\source\repos\MusicFileSorter\MusicFileSorter\bin\Debug\MusicFileSorter.exe.config
+C:\Users\Jimmy\source\repos\MusicFileSorter\MusicFileSorter\bin\Debug\MusicFileSorter.exe
+C:\Users\Jimmy\source\repos\MusicFileSorter\MusicFileSorter\bin\Debug\MusicFileSorter.pdb
+C:\Users\Jimmy\source\repos\MusicFileSorter\MusicFileSorter\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Jimmy\source\repos\MusicFileSorter\MusicFileSorter\bin\Debug\taglib-sharp.dll
+C:\Users\Jimmy\source\repos\MusicFileSorter\MusicFileSorter\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Jimmy\source\repos\MusicFileSorter\MusicFileSorter\obj\Debug\App.g.cs
+C:\Users\Jimmy\source\repos\MusicFileSorter\MusicFileSorter\obj\Debug\MusicFileSorter_Content.g.cs
+C:\Users\Jimmy\source\repos\MusicFileSorter\MusicFileSorter\obj\Debug\MusicFileSorter_MarkupCompile.cache
+C:\Users\Jimmy\source\repos\MusicFileSorter\MusicFileSorter\obj\Debug\MusicFileSorter.g.resources
+C:\Users\Jimmy\source\repos\MusicFileSorter\MusicFileSorter\obj\Debug\MusicFileSorter.Properties.Resources.resources
+C:\Users\Jimmy\source\repos\MusicFileSorter\MusicFileSorter\obj\Debug\MusicFileSorter.csproj.GenerateResource.Cache
+C:\Users\Jimmy\source\repos\MusicFileSorter\MusicFileSorter\obj\Debug\MusicFileSorter.csproj.CoreCompileInputs.cache
+C:\Users\Jimmy\source\repos\MusicFileSorter\MusicFileSorter\obj\Debug\MusicFileSorter.exe
+C:\Users\Jimmy\source\repos\MusicFileSorter\MusicFileSorter\obj\Debug\MusicFileSorter.pdb
